@@ -1,0 +1,23 @@
+.sri {
+  background-color: #db1c48;
+  border-radius: 10px;
+  cursor: pointer;
+  color: white;
+  padding: 6px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.ram {
+  background-color: white;
+  color: #db1c48;
+  padding: 6px;
+  padding-left: 20px;
+  cursor: pointer;
+  padding-right: 20px;
+  border: 1px solid #db1c48;
+  border-radius: 10px;
+}
+.list {
+  display: flex;
+  margin-right: 30px;
+}
